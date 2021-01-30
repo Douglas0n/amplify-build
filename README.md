@@ -1,6 +1,6 @@
 # Amplify-build
 
-Imagem do Docker customizada para ser utilizada no processo de *build* da plataforma [AWS Amplify](https://aws.amazon.com/pt/amplify/). Utilize essa imagem como base quando quiser provisionar um ambiente customizado.
+Imagem do Docker para ser utilizada no processo de *build* da plataforma [AWS Amplify](https://aws.amazon.com/pt/amplify/). Utilize essa imagem como base quando quiser provisionar um ambiente customizado.
 
 ### Requisitos
 * Docker v20.10.2+
